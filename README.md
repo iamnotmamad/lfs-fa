@@ -107,10 +107,10 @@ start LFS-fa.html       # ویندوز
 
 </div>
 
-**۳. نسخهٔ چاپی** — [`LFS-fa-print.pdf`](LFS-fa-print.pdf) را باز کنید؛ یا روی فایل HTML
+**۳. نسخهٔ چاپی** — [`LFS-fa.pdf`](LFS-fa.pdf) را باز کنید؛ یا روی فایل HTML
 `Ctrl+P` بزنید تا همان صفحه‌بندی چاپی ساخته شود.
 
-**۴. نسخهٔ قابل ویرایش** — [`LFS-fa-manual.docx`](LFS-fa-manual.docx) را در Word یا LibreOffice باز کنید.
+**۴. نسخهٔ قابل ویرایش** — [`LFS-fa.docx`](LFS-fa.docx) را در Word یا LibreOffice باز کنید.
 
 ## وضعیت ترجمه
 
