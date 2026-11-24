@@ -11,9 +11,9 @@
 [![License](https://img.shields.io/badge/License-CC%20BY--NC--SA%202.0-1c7ed6)](https://creativecommons.org/licenses/by-nc-sa/2.0/)
 [![Offline](https://img.shields.io/badge/Offline-single%20HTML-7048e8)](LFS-fa-manual.html)
 
-**[نسخهٔ وب (HTML)](LFS-fa-manual.html)** &nbsp;·&nbsp;
-**[نسخهٔ چاپی (PDF)](LFS-fa-print.pdf)** &nbsp;·&nbsp;
-**[نسخهٔ قابل ویرایش (DOCX)](LFS-fa-manual.docx)**
+**[نسخهٔ وب (HTML)](LFS-fa.html)** &nbsp;·&nbsp;
+**[نسخهٔ چاپی (PDF)](LFS-fa.pdf)** &nbsp;·&nbsp;
+**[نسخهٔ قابل ویرایش (DOCX)](LFS-fa.docx)**
 
 </div>
 
@@ -105,9 +105,9 @@
 ```bash
 git clone https://github.com/iamnotmamad/LFS-12.4-Farsi.git
 cd LFS-12.4-Farsi
-xdg-open LFS-fa-manual.html    # لینوکس
-open LFS-fa-manual.html        # macOS
-start LFS-fa-manual.html       # ویندوز
+xdg-open LFS-fa.html    # لینوکس
+open LFS-fa.html        # macOS
+start LFS-fa.html       # ویندوز
 ```
 
 </div>
